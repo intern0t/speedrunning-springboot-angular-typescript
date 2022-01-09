@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.DefaultCustomer = exports.Customer = void 0;
+// export class Customer
 class Customer {
     constructor(_firstname, _lastname) {
         this._firstname = _firstname;
