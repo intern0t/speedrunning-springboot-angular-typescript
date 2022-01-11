@@ -4,9 +4,10 @@ Development Tools [Ch. 3]:
     ✔ Install Node.js & npm (Installed nvm instead) @done (1/11/2022, 5:51:08 AM)
     ✔ Install typescript (Installed typescript@4.5.4) @done (1/11/2022, 5:51:10 AM)
 Typescript [Ch. 4-6]:
-    ✔ Fundamentals @done (1/11/2022, 5:51:20 AM)
-    ✔ Creating Classes @done (1/11/2022, 5:51:22 AM)
-    ✔ Inheritance & Interfaces @done (1/11/2022, 5:51:24 AM)
+    ✔ Fundamentals @done (1/10/2022, 5:51:20 AM)
+    ✔ Creating Classes @done (1/10/2022, 5:51:22 AM)
+    ✔ Inheritance & Interfaces @done (1/10/2022, 5:51:24 AM)
+    ✔ Extends & Implements @high @done (1/10/2022, 11:01:20 AM)
 Angular [Ch. 7-8]:
     Fundamentals: 
         ✔ New Angular Project @done (1/11/2022, 10:32:49 AM)
@@ -17,4 +18,5 @@ Angular [Ch. 7-8]:
     Bootstrap CSS:
         ✔ Get and add Bootstrap files @high @done (1/11/2022, 10:57:03 AM)
         ✔ Apply bootstrap styling to HTML templates & components @critical @done (1/11/2022, 10:57:07 AM)
-    ☐ Conditionals & Formatting
+Spring Boot [Ch. 9-11]:
+    
