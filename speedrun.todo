@@ -8,6 +8,12 @@ Typescript [Ch. 4-6]:
     ✔ Creating Classes @done (1/11/2022, 5:51:22 AM)
     ✔ Inheritance & Interfaces @done (1/11/2022, 5:51:24 AM)
 Angular [Ch. 7-8]:
-    ☐ Fundamentals
-    ☐ Bootstrap CSS
+    Fundamentals: 
+        ✔ New Angular Project @done (1/11/2022, 10:32:49 AM)
+        ✔ New Angular Components @done (1/11/2022, 10:32:50 AM)
+        ✔ Components specific styling (CSS/SCSS/...) @done (1/11/2022, 10:32:52 AM)
+        ✔ New Angular Class for data boilerplate @done (1/11/2022, 10:32:54 AM)
+    Bootstrap CSS:
+        ☐ Get and add Bootstrap files @high 
+        ☐ Apply bootstrap styling to HTML templates & components @critical 
     ☐ Conditionals & Formatting

@@ -1,0 +1,8 @@
+table {
+    font-family: monospace;
+    text-align: center;
+}
+table tbody tr td,
+table thead th {
+    padding: 0 10px;
+}
