@@ -1,17 +1,22 @@
-<table border="1">
-    <thead>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Email</th>
-        <th>Sales Volume</th>
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <th scope="col">Firstname</th>
+        <th scope="col">Lastname</th>
+        <th scope="col">Email</th>
+        <th scope="col">Sales Volume</th>
+        <th scope="col">Meets Quota? (>= 60000)</th>
     </thead>
 
     <tbody>
-        <tr *ngFor="let salesPerson of salesPersonList">
+        <tr scope="row" *ngFor="let salesPerson of salesPersonList">
             <td>{{ salesPerson.firstname }}</td>
             <td>{{ salesPerson.lastname }}</td>
             <td>{{ salesPerson.email }}</td>
-            <td>{{ salesPerson.salesVolume }}</td>
+            <td>{{ salesPerson.salesVolume | currency: 'USD' }}</td>
+            <td>
+                <span *ngIf="salesPerson.salesVolume >= 60000; else quotaNotMetBlock">Yes</span>
+                <ng-template #quotaNotMetBlock>No</ng-template>
+            </td>
         </tr>
     </tbody>
 </table>

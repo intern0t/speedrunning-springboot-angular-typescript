@@ -13,7 +13,8 @@ Angular [Ch. 7-8]:
         ✔ New Angular Components @done (1/11/2022, 10:32:50 AM)
         ✔ Components specific styling (CSS/SCSS/...) @done (1/11/2022, 10:32:52 AM)
         ✔ New Angular Class for data boilerplate @done (1/11/2022, 10:32:54 AM)
+        ✔ *ngIf & *ngFor @critical @done (1/11/2022, 10:57:31 AM)
     Bootstrap CSS:
-        ☐ Get and add Bootstrap files @high 
-        ☐ Apply bootstrap styling to HTML templates & components @critical 
+        ✔ Get and add Bootstrap files @high @done (1/11/2022, 10:57:03 AM)
+        ✔ Apply bootstrap styling to HTML templates & components @critical @done (1/11/2022, 10:57:07 AM)
     ☐ Conditionals & Formatting
