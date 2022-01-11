@@ -19,4 +19,6 @@ Angular [Ch. 7-8]:
         ✔ Get and add Bootstrap files @high @done (1/11/2022, 10:57:03 AM)
         ✔ Apply bootstrap styling to HTML templates & components @critical @done (1/11/2022, 10:57:07 AM)
 Spring Boot [Ch. 9-11]:
-    
+    ✔ Layout API endpoints with classes. @high @done (1/11/2022, 6:20:00 PM)
+    ✔ Restrict certain HTTP methods using RepositoryRestConfigurer. @done (1/11/2022, 6:21:53 PM)
+    ✔ Introduction to JPA, JPARepository (JpaRepository). @high @done (1/11/2022, 6:22:27 PM)
