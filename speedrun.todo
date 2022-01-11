@@ -1,0 +1,13 @@
+✔ Introduction @done (1/11/2022, 5:49:50 AM)
+✔ Angular Overview @done (1/11/2022, 5:49:53 AM)
+Development Tools [Ch. 3]:
+    ✔ Install Node.js & npm (Installed nvm instead) @done (1/11/2022, 5:51:08 AM)
+    ✔ Install typescript (Installed typescript@4.5.4) @done (1/11/2022, 5:51:10 AM)
+Typescript [Ch. 4-6]:
+    ✔ Fundamentals @done (1/11/2022, 5:51:20 AM)
+    ✔ Creating Classes @done (1/11/2022, 5:51:22 AM)
+    ✔ Inheritance & Interfaces @done (1/11/2022, 5:51:24 AM)
+Angular [Ch. 7-8]:
+    ☐ Fundamentals
+    ☐ Bootstrap CSS
+    ☐ Conditionals & Formatting
